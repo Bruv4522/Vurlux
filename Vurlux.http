@@ -1,0 +1,6 @@
+@Vurlux_HostAddress = http://localhost:5145
+
+GET {{Vurlux_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
